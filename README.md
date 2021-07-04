@@ -1,4 +1,3 @@
-# Integrirani Sistemi Domasna
 
 Napraveno so pomos na .NET core v5 i Angular 11 (Kako wrapper za front-end)
 Indeks: 183145
