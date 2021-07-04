@@ -3,7 +3,7 @@
 Napraveno so pomos na .NET core v5 i Angular 11 (Kako wrapper za front-end)
 Indeks: 183145
 
-#NAPOMENA:
+# NAPOMENA:
 Potrebno e malku vreme pri ranuvanje da se otvori celosno aplikacijata, ve molime pricekajte
 
 # Potrebni Instalirani raboti
@@ -30,3 +30,6 @@ username:adminuser
 password:qwerty
 
 Dokolku sakate obicen korisnik ke treba da go registrirate preku aplikacijata
+
+# Primer izgled na aplikacijata
+https://imgur.com/a/n6tT0kn
