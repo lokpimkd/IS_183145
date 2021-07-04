@@ -22,7 +22,8 @@ npm install -g @angular/cli
 3. Smenete go konekciskiot string vo appsetings.json fajlot
 4. Napravete Build na aplikacijata
 5. Pri prvo izvrsuvanje na aplikacijata potrebno e da dodadete filmovi preku adminuser. Posteri za filmovite moze da najdete vo folderot: wwwroot\Upload
-6. Dokolku sakate da gi vidite majlovite sto se prakjaat kreirajte dummy acount na: https://ethereal.email/create
+6. Po dodavanje na film vratete se na pocetnata strana i napravete Refresh na stranata i isto taka Refresh na bazata
+7. Dokolku sakate da gi vidite majlovite sto se prakjaat kreirajte dummy acount na: https://ethereal.email/create
 i smenete gi credentialsot vo Controllers\CheckOutController
 
 # Admin Credentials:
